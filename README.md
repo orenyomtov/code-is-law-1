@@ -2,6 +2,10 @@
 
 This is a solidify CTF challenge built for BSides TLV 2022.
 
+The writeup can be found [here](https://medium.com/@patternrecognizer/solidity-ctf-writeup-code-is-law-1-465428bf4bd5).
+
+The solution can be found on the `solution` branch.
+
 ## Quickstart
 
 Install dependencies
